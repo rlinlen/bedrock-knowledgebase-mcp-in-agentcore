@@ -1,0 +1,27 @@
+# Environment files with sensitive data
+.env
+agentcore_config.env
+
+# AgentCore generated files
+.bedrock_agentcore.yaml
+Dockerfile
+.dockerignore
+
+# Python environment and cache
+.venv/
+__pycache__/
+*.pyc
+
+# UV package manager
+.uv/
+uv.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db

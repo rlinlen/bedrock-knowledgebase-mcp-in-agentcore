@@ -1,0 +1,4 @@
+fastmcp>=2.0.0
+boto3>=1.35.0
+bedrock_agentcore_starter_toolkit
+python-dotenv
